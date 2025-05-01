@@ -16,25 +16,25 @@ MENTOR : NEELA SANTOSH
 🔗 Learnify - E-Learning Platform
 <br>
 <br>
-Learnify is a modern, interactive front-end for an e-learning platform built using HTML, CSS, and JavaScript, with smooth animations using **GSAP** and **ScrollTrigger**.
+Learnify is a modern, interactive front-end for an e-learning platform built using HTML, CSS, and JavaScript, with smooth animations using GSAP and ScrollTrigger.
 
 
 <hr>
 🔗 FEATURES
 <br>
 <br>
-• **Course Listing Page** : With cards for HTML, CSS, and React courses<br>
-• **Course Detail Page** : With embedded YouTube videos and progress tracker<br>
-• **Progress Page** : to monitor course completion <br>
-• **Contact Form** : with feedback confirmation <br>
-• **Login & Sign Up** : forms with GSAP animations<br>
-• **About Page** : with a detailed overview and team section <br>
-• **Testimonials Carousel** <br>
-• **Video Embedding** <br>
-• **Scroll-triggered animations** : using GSAP ScrollTrigger <br>
-• **Responsive Design** <br>
-• **Back to Top** button <br>
-• **Fixed Footer on all pages** <br>
+• Course Listing Page : With cards for HTML, CSS, and React courses<br>
+• Course Detail Page : With embedded YouTube videos and progress tracker<br>
+• Progress Page : to monitor course completion <br>
+• Contact Form : with feedback confirmation <br>
+• Login & Sign Up : forms with GSAP animations<br>
+• About Page : with a detailed overview and team section <br>
+• Testimonials Carousel <br>
+• Video Embedding <br>
+• Scroll-triggered animations : using GSAP ScrollTrigger <br>
+• Responsive Design <br>
+• Back to Top button <br>
+• Fixed Footer on all pages <br>
 
 
 <hr>
@@ -59,7 +59,7 @@ Learnify is a modern, interactive front-end for an e-learning platform built usi
 🔗 Installation and Setup
 <br>
 <br>
-1. **Clone the repo** or [Download ZIP](#)<br>
+1. Clone the repo or [Download ZIP](#)<br>
 2. Open `index.html` in your browser <br>
 3. Navigate through other pages using the navigation bar <br>
 <br>
@@ -76,8 +76,10 @@ Users can click "Mark Lesson Completed" → progress bar updates by 20% each tim
 <br>
 <br>
 
-![Image](https://github.com/user-attachments/assets/49d4e352-9325-4adc-8857-bfca7e32a39b)
-![Image](https://github.com/user-attachments/assets/4b16f4f2-c112-4ff6-8412-3cf2a6041a84)
-![Image](https://github.com/user-attachments/assets/524649e4-b921-45ad-bb8a-3758c432a9eb)
-![Image](https://github.com/user-attachments/assets/c683aa53-e1a3-4fa0-92e1-047aade66ec7)
+![Image](https://github.com/user-attachments/assets/f0239f69-e22e-4049-8279-941c5a27e4c4)
+![Image](https://github.com/user-attachments/assets/0961ea9a-42d9-4ea3-bea6-5ce7c4ffea7f)
+![Image](https://github.com/user-attachments/assets/932848fe-201e-4b73-8c1a-38d585e5b5a0)
+![Image](https://github.com/user-attachments/assets/b39a27cb-e3be-437b-80f3-6c640675c418)
+![Image](https://github.com/user-attachments/assets/29fe780a-0373-4e2c-a806-d503c0f85f2f)
+![Image](https://github.com/user-attachments/assets/0d1dc077-f8aa-4b3f-aa75-a42846942a56)
 
