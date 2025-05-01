@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <title>Learnify | Course Detail</title>
+        <link rel="stylesheet" href="style.css" />
+      </head>
+      <body>
+        <header class="navbar">
+          <div class="navbar">
+
+            <div class="logo">Learnify</div>
+      
+            <nav>
+              <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="courses.html">Courses</a></li>
+                <li><a href="progress.html">My Progress</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="login.html">Login</a></li>
+             
+              </ul>
+            </nav>
+          
+        </div>
+        </header>
+
+        <section class="course-detail">
+          <h1>JavaScript for Beginners</h1>
+          <iframe width="100%" height="500px" src="https://www.youtube.com/embed/ajdRvxDWH4w?si=Q8BA3ja2zwmqfzS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+
+            Your browser does not support the video tag.
+          </video>
+
+          <div class="progress-section">
+            <h3>Track Your Progress</h3>
+            <progress id="courseProgress" value="20" max="100"></progress>
+            <p id="progressText">20% Completed</p>
+            <button class="btn" onclick="increaseProgress()">
+              Mark Lesson Completed
+            </button>
+          </div>
+        </section>
+        <footer class="footer">
+          <p>© 2025 Learnify. All rights reserved.</p>
+          <div class="footer-links">
+            <a href="about.html">About</a> |
+            <a href="courses.html">Courses</a> |
+            <a href="contact.html">Contact</a> |
+            <a href="login.html">login</a> |
+            <a href="signup.html">singup</a> 
+            
+          </div>
+        </footer>
+        <button id="backToTop" class="back-to-top-btn" onclick="scrollToTop()">
+            ↑ Back to Top
+          </button>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/ScrollTrigger.min.js"></script>
+        <script src="script.js"></script>
+      </body>
+    </html>
+  </body>
+</html>
